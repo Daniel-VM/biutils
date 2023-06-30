@@ -1,0 +1,19 @@
+name: long-read-analysis-env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - nextflow
+  - singularity
+  - java
+  - openjdk
+  - python=3.8
+  - minimap2
+  - samtools
+  - bcftools
+  - nanopolish
+  - racon
+  - medaka
+  - porechop
+  - pilon
+  - 

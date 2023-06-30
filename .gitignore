@@ -1,0 +1,6 @@
+test_data/
+**/__*
+**/*.tar.gz
+**/*.zip
+**/*.fastq*
+**/*.log
